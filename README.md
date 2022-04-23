@@ -1,4 +1,8 @@
-<img src="https://github.com/selimttasdemir/selimttasdemir/blob/main/giphy.gif" width="auto">
+<img src="https://github.com/selimttasdemir/selimttasdemir/blob/main/giphy.gif" height="auto" width="750px">
+
+
+
+
 ### "Hello World. I'm Selim" 🙌💻
 
 ### Connect with me:
@@ -28,6 +32,8 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
 <br />
 <br />
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=selimttasdemir&show_icons=true&theme=radical)
 
 <!--
 **selimttasdemir/selimttasdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
