@@ -4,6 +4,12 @@
 
 
 ### "Hello World. I'm Selim" 🙌💻
+##### Ben Mekatronik Mühendisliği öğrencisi Selim TAŞDEMİR.
+##### Bir süredir web programcılığı ile ilgileniyorum.
+##### Öğrendiğim ve uyguladığım bazı projelerimi repositories kısmında bulabilirsiniz.
+##### Aktif olarak iş arayışındayım bulunduğum ortama çabuk uyum sağlar ve öğrenilmesi gereken teknolojileri elimden geldiğince en hızlı şekilde öğrenmeye çalışırım.
+##### Şimdiye kadar geliştirdiğim bütün projelerimde eski teknoloji olan asp.net webform'u kullandım.
+##### Artık MVC yapısını öğrenmeye başladım ve bu konuda da kendimi geliştireceğim.
 
 ### Connect with me:
 
