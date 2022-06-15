@@ -1,12 +1,10 @@
 <img src="https://github.com/selimttasdemir/selimttasdemir/blob/ca4db00e5662a77db7ecbe8885c05dec35677781/giphy.gif" height="150px" width="820px">
 
 
-
-
 ### "Hello World. I'm Selim" 🙌💻
 ##### Ben Mekatronik Mühendisliği öğrencisi Selim TAŞDEMİR.
 ##### Bir süredir web programcılığı ile ilgileniyorum.
-##### Öğrendiğim ve uyguladığım bazı projelerimi repositories kısmında bulabilirsiniz.
+##### Öğrendiğim ve uyguladığım bazı projelerimi [repositories](https://github.com/selimttasdemir?tab=repositories) kısmında bulabilirsiniz.
 ##### Aktif olarak iş arayışındayım bulunduğum ortama çabuk uyum sağlar ve öğrenilmesi gereken teknolojileri elimden geldiğince en hızlı şekilde öğrenmeye çalışırım.
 ##### Şimdiye kadar geliştirdiğim bütün projelerimde eski teknoloji olan asp.net webform'u kullandım.
 ##### Artık MVC yapısını öğrenmeye başladım ve bu konuda da kendimi geliştireceğim.
