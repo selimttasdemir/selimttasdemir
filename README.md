@@ -3,16 +3,16 @@
 <img src="https://github.com/selimttasdemir/selimttasdemir/blob/ca4db00e5662a77db7ecbe8885c05dec35677781/giphy.gif" height="150px" width="820px">
 
 
-**Mekatronik Mühendisi | Yapay Zeka & Görüntü İşleme & Gömülü Sistemler | ASP.NET & Python Geliştirici**
+**Mekatronik Mühendisi | Yapay Zeka & Görüntü İşleme & Gömülü Sistemler | .NET & Python Geliştirici**
 
-Merhaba! Ben Selim, Karabük Üniversitesi Mekatronik Mühendisliği son sınıf öğrencisiyim. Görüntü işleme, yapay zeka ve insansız hava araçları üzerine projeler geliştiriyorum. Ayrıca, ASP.NET ve Python ile web ve yazılım projelerinde deneyim sahibiyim.
+Merhaba! Ben Selim, Karabük Üniversitesi Mekatronik Mühendisliği son sınıf öğrencisiyim. Görüntü işleme, yapay zeka ve insansız sistemler üzerine projeler geliştiriyorum. Ayrıca, ASP.NET ile web projelerinde, Python ile görüntü işleme yapay zeka yazılım projelerinde ve C/C++ ile gömülü sistemlerde deneyim sahibiyim.
 
 ---
 
 ### 🚀 Projelerim
 
 - **[İnsansız Hava Araçları Yarışması Projesi](#)**
-  Teknofest 2019-2022 arası İHA yarışmaları için ve 2021 İHA Yarışması için geliştirilen, 8 kişilik takımın liderliğini yaptığı, proje yönetimi, elektronik ve yazılım geliştiriciliği.
+  Teknofest 2019-2022 arası İHA yarışmalarmalarında sabit kanat insansız hava aracı geliştirilmiş olup 2021 İHA Yarışması için geliştirilen iha sisteminde takımın takım liderliği, proje yönetimi, elektronik ve yazılım geliştiriciliği yapılmıştır.
 
 - **[Hava Savunma Sistemi Yarışması Projesi](#)**  
   YOLO V8 kullanarak nesne tanıma ve C# ile oluşturulmuş arayüzden arduinoya bağlı motorların kontrolü ve kameradan görüntü takibi projesi.
@@ -32,7 +32,7 @@ Merhaba! Ben Selim, Karabük Üniversitesi Mekatronik Mühendisliği son sınıf
 
 - **Programlama Dilleri:** Python, C#, JavaScript
 - **Web Teknolojileri:** ASP.NET, HTML, CSS
-- **Araçlar ve Kütüphaneler:** YOLO v8, OpenCV, Selenium
+- **Araçlar ve Kütüphaneler:** YOLO v8, OpenCV, Selenium, NumPy, Pandas, Keras, TensorFlow, 
 - **Gömülü Sistemler:** Arduino, Raspberry Pi4, Teensy, ESP32 
 - **Yapay Zeka:** CNN, RNN, LSTM
 - **Geliştirme Ortamları:** Visual Studio Code, Visual Studio 2022, Jupyter Notebook, Arduino IDE, MATLAB, SolidWorks, Proteus, 
