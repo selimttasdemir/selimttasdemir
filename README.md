@@ -13,13 +13,13 @@ Merhaba! Ben **Selim Taşdemir**, Mekatronik Mühendisiyim. Python ve Lua ile g�
 - **[Ağır Yük Bırakan Drone ve Kaşif Drone Projesi (Profesyonel Deneyim)](#)**  
   2023 Mayıs – 2024 Aralık tarihleri arasında özel bir teknoloji firmasında yük taşıyabilen ve belirli noktalarda yük bırakabilen drone geliştirildi.Ayrıca termal kamera ile nesne canlı nesnelerin tespiti de gerçekleştirildi. Drone tasarım, yazılım ve elektronik entegrasyon alanında çalışmalar yapıldı ve bu süreçte proje yönetimi görevide üstlenildi.
 
-- **[İnsansız Hava Aracı Geliştirme (Teknofest)](/img/CNN_Tez.pdf)**  
+- **[İnsansız Hava Aracı Geliştirme (Teknofest)](#)**  
   2019-2022 yılları arasında sabit kanat İHA geliştirildi. 2021 yılında takım kaptanı olarak proje yönetimi, elektronik ve yazılım geliştirme sorumlulukları üstlenildi.
 
 - **[Hava Savunma Sistemi (YOLO V8 Nesne Tespiti Takibi + C# Arayüz)](/img/havaSavunma.gif)**  
   YOLO v8 ile nesne tanıma, C# arayüzü ile Arduino üzerinden motor kontrolü ve gerçek zamanlı görüntü takibi.
 
-- **[CNN Tabanlı Konuşmacı Tanıma Uygulaması](#)**  
+- **[CNN Tabanlı Konuşmacı Tanıma Uygulaması](/img/CNN_Tez.pdf)**  
   Lisans tezi olarak geliştirilen bu proje, ses verilerinden konuşmacı tanıma görevini başarıyla gerçekleştirdi.  
   Ortak çalışma: [Emrecan Güldoğan](https://github.com/emrecanguldogan)
 
