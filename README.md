@@ -87,7 +87,6 @@ _Projelerim hakkında daha fazla bilgi almak veya iş birliği yapmak için bana
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" title="Kali Linux" width="26px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" width="26px"/>
   <img src="https://img.icons8.com/?size=100&id=62397&format=png&color=000000" title="SolidWorks" width="30px"/>
-  <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" title="Fusion360" width="26px"/>
 </p>
 
 ---
